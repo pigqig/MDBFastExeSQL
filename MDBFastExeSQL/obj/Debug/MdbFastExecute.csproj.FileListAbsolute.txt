@@ -1,0 +1,13 @@
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\bin\Debug\MdbFastExecute.exe.config
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\bin\Debug\MdbFastExecute.exe.manifest
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\bin\Debug\MdbFastExecute.application
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\bin\Debug\MdbFastExecute.exe
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\bin\Debug\MdbFastExecute.pdb
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.Form1.resources
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.Properties.Resources.resources
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.csproj.GenerateResource.cache
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.exe.manifest
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.application
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.exe
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.pdb
+C:\Project\改給它人簡易程式\MdbFastExecute\MdbFastExecute\obj\Debug\MdbFastExecute.csprojAssemblyReference.cache

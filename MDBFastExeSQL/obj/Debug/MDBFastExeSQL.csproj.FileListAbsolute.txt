@@ -1,0 +1,16 @@
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\bin\Debug\MDBFastExeSQL.exe.config
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\bin\Debug\MDBFastExeSQL.exe.manifest
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\bin\Debug\MDBFastExeSQL.application
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\bin\Debug\MDBFastExeSQL.exe
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\bin\Debug\MDBFastExeSQL.pdb
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.csprojAssemblyReference.cache
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.Form1.resources
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.Properties.Resources.resources
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.csproj.GenerateResource.cache
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.csproj.CoreCompileInputs.cache
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.exe.manifest
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.application
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.exe
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\obj\Debug\MDBFastExeSQL.pdb
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\bin\Debug\empty.mdb
+C:\GitHub\MdbFastExecute\MDBFastExeSQL\bin\Debug\execute.sql

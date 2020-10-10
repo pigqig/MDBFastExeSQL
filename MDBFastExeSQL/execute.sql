@@ -1,0 +1,3 @@
+CREATE TABLE tblCustomers      (CustomerID INTEGER,     [Last Name] TEXT(50),     [First Name] TEXT(50),     Phone TEXT(10),     Email TEXT(50)) 
+CREATE TABLE tblCustomers2      (CustomerID INTEGER,     [Last Name] TEXT(50),     [First Name] TEXT(50),     Phone TEXT(10),     Email TEXT(50)) 
+CREATE TABLE tblCustomers3      (CustomerID INTEGER,     [Last Name] TEXT(50),     [First Name] TEXT(50),     Phone TEXT(10),     Email TEXT(50)) 
